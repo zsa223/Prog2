@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTrainingSequence" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-18T12:37:20" hostname="gimjaewBookPro2.fritz.box" time="4.39">
+  <properties/>
+  <testcase name="testSequenceSingleAttemptsDisallowFailures()" classname="TestTrainingSequence" time="0.871"/>
+  <testcase name="testSequenceMultiAttemptDisallowFailures()" classname="TestTrainingSequence" time="1.115"/>
+  <testcase name="testSequenceSingleAthleteSingleCycle()" classname="TestTrainingSequence" time="0.138"/>
+  <testcase name="testSequenceSingleAthleteMultiCycle()" classname="TestTrainingSequence" time="0.515"/>
+  <testcase name="testSequenceMultiAttemptAllowFailures()" classname="TestTrainingSequence" time="0.798"/>
+  <testcase name="testSequenceSingleAttemptAllowFailures()" classname="TestTrainingSequence" time="0.948"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
